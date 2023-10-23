@@ -1,0 +1,34 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "Customer Reps",
+      "icon": ":site:"
+    },
+    {
+      "id": 2,
+      "name": "Billing 123",
+      "icon": ":cloud:"
+    },
+    {
+      "id": 3,
+      "name": "Expedition",
+      "icon": ":company:"
+    },
+    {
+      "id": 4,
+      "name": "Internal Corp",
+      "icon": ":rocket:"
+    },
+    {
+      "name": "Test Team",
+      "id": 5,
+      "icon": ":conversation:"
+    },
+    {
+      "id": 6,
+      "name": "Test Team 1",
+      "icon": ":cargo:"
+    }
+  ]
+}

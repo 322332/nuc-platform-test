@@ -1,0 +1,15 @@
+{
+  "github": {
+    "token_url": "https://github.com/login/oauth/access_token",
+    "user_url": "https://api.github.com/user",
+    "client_id": "0c2844d3d19dc9293fc5",
+    "client_secret": "53b08fe45a3c616a9ce3e05174ea82e502df6baf",
+    "redirect_uri": "http://localhost:5173/callback"
+  },
+  "jwt_secret": "q8fvthcTaz8qKQDAS7hJRKDS",
+  "oauth_provider": "github",
+  "port": 3000,
+  "debug": true,
+  "profile": "TEST",
+  "routes": "./routes/*.js"
+}

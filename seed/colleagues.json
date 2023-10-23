@@ -1,0 +1,207 @@
+{
+  "colleagues": [
+    {
+      "id": 1,
+      "name": "Paul Bunyanx",
+      "email": "paul@lumberjack.me",
+      "phone": "+1 111 111 1111",
+      "teamId": 1
+    },
+    {
+      "id": 2,
+      "name": "Pecos Bill",
+      "email": "pecos@wildwest.me",
+      "phone": "+1 222 222 2222",
+      "teamId": 1
+    },
+    {
+      "id": 3,
+      "name": "John Henry",
+      "email": "john@steelman.me",
+      "phone": "+1 333 333 3333",
+      "teamId": 1
+    },
+    {
+      "id": 4,
+      "name": "Molly Brown",
+      "email": "molly@titanicsurvivor.me",
+      "phone": "+1 444 444 4444",
+      "teamId": 1
+    },
+    {
+      "id": 5,
+      "name": "Bilbo",
+      "email": "bilbo@adventurous.me",
+      "phone": "+1 555 555 5555",
+      "teamId": 2
+    },
+    {
+      "id": 6,
+      "name": "Smaug",
+      "email": "smaug@firebreather.me",
+      "phone": "+1 666 666 6666",
+      "teamId": 2
+    },
+    {
+      "id": 7,
+      "name": "Thorin",
+      "email": "thorin@kingundermountain.me",
+      "phone": "+1 777 777 7777",
+      "teamId": 2
+    },
+    {
+      "id": 8,
+      "name": "Bard",
+      "email": "bard@dragonkiller.me",
+      "phone": "+1 888 888 8888",
+      "teamId": 2
+    },
+    {
+      "id": 9,
+      "name": "Aragorn",
+      "email": "aragorn@ranger.me",
+      "phone": "+1 999 999 9999",
+      "teamId": 3
+    },
+    {
+      "id": 10,
+      "name": "Legolas",
+      "email": "legolas@sharpshooter.me",
+      "phone": "+1 101 010 1010",
+      "teamId": 3
+    },
+    {
+      "id": 11,
+      "name": "Gimli",
+      "email": "gimli@axewielder.me",
+      "phone": "+1 121 212 1212",
+      "teamId": 3
+    },
+    {
+      "id": 12,
+      "name": "Boromir",
+      "email": "boromir@gondor.me",
+      "phone": "+1 131 313 1313",
+      "teamId": 3
+    },
+    {
+      "id": 13,
+      "name": "Gandalf",
+      "email": "gandalf@wisdom.me",
+      "phone": "+1 141 414 1414",
+      "teamId": 4
+    },
+    {
+      "id": 14,
+      "name": "Saruman",
+      "email": "saruman@whitecouncil.me",
+      "phone": "+1 151 515 1515",
+      "teamId": 4
+    },
+    {
+      "id": 15,
+      "name": "Elrond",
+      "email": "elrond@rivendell.me",
+      "phone": "+1 161 616 1616",
+      "teamId": 4
+    },
+    {
+      "id": 16,
+      "name": "Galadriel",
+      "email": "galadriel@lorelady.me",
+      "phone": "+1 171 717 1717",
+      "teamId": 4
+    },
+    {
+      "id": 17,
+      "name": "Mothman",
+      "email": "moth@cryptid.me",
+      "phone": "+1 181 818 1818",
+      "teamId": 4
+    },
+    {
+      "id": 18,
+      "name": "Bigfoot",
+      "email": "bigfoot@legend.me",
+      "phone": "+1 191 919 1919",
+      "teamId": 5
+    },
+    {
+      "id": 19,
+      "name": "Jersey Devil",
+      "email": "devil@pinebarrens.me",
+      "phone": "+1 202 020 2020",
+      "teamId": 5
+    },
+    {
+      "id": 20,
+      "name": "Chupacabra",
+      "email": "chupa@goatsucker.me",
+      "phone": "+1 212 121 2121",
+      "teamId": 5
+    },
+    {
+      "id": 21,
+      "name": "Casey Jones",
+      "email": "casey@trainman.me",
+      "phone": "+1 222 222 2222",
+      "teamId": 5
+    },
+    {
+      "id": 22,
+      "name": "Ichabod Crane",
+      "email": "ichabod@sleepyhollow.me",
+      "phone": "+1 232 323 2323",
+      "teamId": 5
+    },
+    {
+      "id": 23,
+      "name": "Mike Fink",
+      "email": "mike@keelboat.me",
+      "phone": "+1 242 424 2424",
+      "teamId": 5
+    },
+    {
+      "id": 24,
+      "name": "Sally Ann Thunder Ann Whirlwind",
+      "email": "sally@whirlwind.me",
+      "phone": "+1 252 525 2525",
+      "teamId": 5
+    },
+    {
+      "id": 25,
+      "name": "Br'er Rabbit",
+      "email": "brer@trickster.me",
+      "phone": "+1 262 626 2626",
+      "teamId": 6
+    },
+    {
+      "id": 26,
+      "name": "Br'er Fox",
+      "email": "fox@crafty.me",
+      "phone": "+1 272 727 2727",
+      "teamId": 6
+    },
+    {
+      "id": 27,
+      "name": "Br'er Bear",
+      "email": "bear@clumsy.me",
+      "phone": "+1 282 828 2828",
+      "teamId": 6
+    },
+    {
+      "id": 28,
+      "name": "Uncle Remus",
+      "email": "remus@storyteller.me",
+      "phone": "+1 292 929 2929",
+      "teamId": 6
+    },
+    {
+      "id": 29,
+      "name": "Tall Tale Tim",
+      "email": "tim@taleteller.me",
+      "phone": "+1 303 030 3030",
+      "teamId": 6
+    }
+  ]
+}

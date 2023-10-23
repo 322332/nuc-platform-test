@@ -1,0 +1,28 @@
+{
+    "permissions": [
+        {
+            "userId": 100001,
+            "teamId": 1
+        },
+        {
+            "userId": 100001,
+            "teamId": 3
+        },
+        {
+            "userId": 100001,
+            "teamId": 5
+        },
+        {
+            "userId": 49736917,
+            "teamId": 1
+        },
+        {
+            "userId": 49736917,
+            "teamId": 3
+        },
+        {
+            "userId": 49736917,
+            "teamId": 5
+        }
+    ]
+}

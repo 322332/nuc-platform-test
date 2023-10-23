@@ -1,0 +1,11 @@
+{
+  "github": {
+    "token_url": "https://github.com/login/oauth/access_token",
+    "user_url": "https://api.github.com/user",
+    "client_id": "4806a6f27dc44ac5c27f",
+    "client_secret": "7d10803e737182ee11cf03443b95748cde34138f",
+    "redirect_uri": "https://nuc.land/graycollar/callback"
+  },
+  "jwt_secret": "q8fvthcTaz8qKQDAS7hJRKDS",
+  "oauth_provider": "github"
+}
